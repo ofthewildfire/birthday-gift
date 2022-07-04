@@ -1,22 +1,13 @@
-@font-face {
-    font-family: 'Delius';
-    src: url(/fonts/Delius-Regular.ttf);
-}
-
-@font-face {
-    font-family: 'HomeMadeApple';
-    src: url(/fonts/HomemadeApple-Regular.ttf);
-}
-
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
     background: linear-gradient(#ffc7a2, #b0efb7, mistyrose);
-    color: #ffffff;
+    font-family: 'Delius', cursive;
+    font-family: 'Homemade Apple', cursive;
 }
 
 h1 {
-    font-family: 'HomeMadeApple';
+    font-family: 'Homemade Apple';
     color: bisque;
 }
 
